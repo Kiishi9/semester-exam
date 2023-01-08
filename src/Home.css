@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #6b8f71;
+  background-color: #16425b;
   color: white;
 }
 .links {
@@ -12,7 +12,8 @@
   text-decoration: none;
   font-weight: 700;
   border: 2px solid white;
-  background-color: #aad2ba;
+  background-color: #3a7ca5;
+  color: white;
   border-radius: 9px;
   padding: 7px;
   margin-bottom: 1em;
