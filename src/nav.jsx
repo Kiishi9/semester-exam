@@ -16,7 +16,7 @@ const Nav = () => {
         </Link>
         <Link className="nav-link" to="/counter-2">
           {" "}
-          UseReducer
+          Use Reducer
         </Link>
 
         <Link className="nav-link" to="/error">
