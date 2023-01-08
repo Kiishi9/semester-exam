@@ -1,6 +1,7 @@
 import React from "react";
 import useNormalCounter from "./NormalCustom";
 import { Link } from "react-router-dom";
+import "./counter.css";
 
 const Counter_2 = () => {
   const [count, increment, decrement, reset, setValue] = useNormalCounter();

@@ -52,6 +52,7 @@ input {
   font-size: 18px;
   border: 2px solid black;
   font-weight: 700;
+  background-color: white;
 }
 .links {
   border: 2px solid lightgray;
