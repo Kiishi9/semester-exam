@@ -17,9 +17,9 @@ const Home = () => {
         {" "}
         Use Counter
       </Link>
-      <Link className="linkss" to="/counter-2">
+      <Link className="links" to="/counter-2">
         {" "}
-        Use Counter - 2{" "}
+        UseReducer{" "}
       </Link>
     </div>
   );
