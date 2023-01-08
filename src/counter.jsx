@@ -14,9 +14,9 @@ function Counter() {
         </div>
 
         <div className="button">
-          <button onClick={increment}> increment</button>
-          <button onClick={decrement}> decrement</button>
-          <button onClick={reset}> reset</button>
+          <button onClick={increment}> Increment</button>
+          <button onClick={decrement}> Decrement</button>
+          <button onClick={reset}> Reset</button>
           <input type='number' name="setValue" onChange={(e) => setValue(e)} /> 
         </div>
 
