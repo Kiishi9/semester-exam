@@ -13,7 +13,7 @@ const Home = () => {
         make my UI better.
       </h3>
 
-      <Link className="linkss" to="/counter">
+      <Link className="links" to="/counter">
         {" "}
         Use Counter
       </Link>
