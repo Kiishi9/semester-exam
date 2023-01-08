@@ -1,18 +1,18 @@
-.home{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: black;
-    color: white;
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(99, 99, 233);
+  color: white;
 }
-.linkss{
-    color: white;
-    text-decoration: none;
-    font-weight: 700;
-    border: 2px solid white;
-    border-radius: 9px;
-    padding: 7px;
-    margin-bottom: 1em;
+.links {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  border: 2px solid white;
+  border-radius: 9px;
+  padding: 7px;
+  margin-bottom: 1em;
 }
